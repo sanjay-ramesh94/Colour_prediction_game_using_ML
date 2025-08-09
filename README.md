@@ -24,14 +24,6 @@ pandas and NumPy: For data manipulation and analysis.
 
 joblib: For saving and loading machine learning models.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-
-Selenium Documentation
-
 scikit-learn Documentation
 
 XGBoost Documentation
